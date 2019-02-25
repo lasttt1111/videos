@@ -1,0 +1,1 @@
+languague_info.blade.php
